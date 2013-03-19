@@ -1,0 +1,110 @@
+[
+     {
+        name: "NINGUNO",
+        url: "ninguno"
+    },
+	{
+        name: "CABLES DE COBRE DESNUDO",
+        url: "resources/img/productos/DESNUDO.jpg"
+    },
+	{
+        name: "CABLE TW",
+        url: "resources/img/productos/CABLE-TW.jpg"
+    },
+    {
+        name: "CABLE THW",
+        url: "resources/img/productos/CABLE-THW.jpg"
+    },
+	{
+        name: "CABLE THWN / THHN",
+        url: "resources/img/productos/THHN.jpg"
+    },
+{
+        name: "CABLE TTU",
+        url: "resources/img/productos/TTU.jpg"
+    },
+{
+        name: "CABLE AUTOMOTRIZ / INSTALACION",
+        url: "resources/img/productos/INSTALACION.png"
+    },
+{
+        name: "CABLE BATERIA",
+        url: "resources/img/productos/BATERIA.jpg"
+    },
+{
+        name: "CABLE SOLDADURA",
+        url: "resources/img/productos/SOLDADURA.jpg"
+    },
+{
+        name: "CABLE NM",
+        url: "resources/img/productos/NM.jpg"
+    },
+{
+        name: "CABLE SPT",
+        url: "resources/img/productos/SPT.jpg"
+    },
+{
+        name: "CABLE ST / TSJ",
+        url: "resources/img/productos/ST-TSJ.png"
+    },
+{
+        name: "CABLE DE POTENCIA",
+        url: "resources/img/productos/POTENCIA.jpg"
+    },
+{
+        name: "CABLE ALTA TENSION (5KV, 15 KV, 25 KV, 35 KV)",
+        url: "resources/img/productos/ALTA-TENSION.jpg"
+    },
+{
+        name: "CABLE CONCENTRICO",
+        url: "resources/img/productos/CONCENTR.jpg"
+    },
+{
+        name: "CABLE TDI",
+        url: "resources/img/productos/TDI.jpg"
+    },
+{
+        name: "CABLE COAXIAL",
+        url: "resources/img/productos/COAXIAL.jpg"
+    },
+{
+        name: "CABLE SML",
+        url: "resources/img/productos/SML.jpg"
+    },
+{
+        name: "CABLE SILICON / FIBRA DE VIDRIO",
+        url: "resources/img/productos/SILICON-FIBRA.jpg"
+    },
+{
+        name: "CABLE DE CONTROL",
+        url: "resources/img/productos/CONTROL.jpg"
+    },
+{
+        name: "CABLE DE INSTRUMENTACION",
+        url: "resources/img/productos/INSTRUM.jpg"
+    },
+{
+        name: "CABLE PLANO / ASCENSOR",
+        url: "resources/img/productos/PLANO-ASCENSOR.jpg"
+    },
+{
+        name: "CABLE DE REDES",
+        url: "resources/img/productos/UTP.jpg"
+    },
+{
+        name: "CABLE DE ALUMINIO / ARVIDAL",
+        url: "resources/img/productos/ALUMINIO.jpg"
+    },
+{
+        name: "TUBERIA DE COBRE",
+        url: "resources/img/productos/TUBERIA-CU.jpg"
+    },
+{
+        name: "BARRA DE COBRE ELECTROLITICO",
+        url: "resources/img/productos/BARRA-CU.jpg"
+    },
+{
+        name: "BARRAS DE LATON",
+        url: "resources/img/productos/BARRAS-LATON.jpg"
+    }
+]

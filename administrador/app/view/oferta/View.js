@@ -47,7 +47,7 @@ Ext.define('Oferta.view.oferta.View', {
 					'</div>',
 					'<h3>{titulo}</h3>',
 					'<tpl if="this.notNull(urlimg)">',
-						'<div style="background: url(http://ifcables.ve2fsoft.com/{urlimg}) no-repeat;" class="avatar left"></div>',
+						'<div style="background: url(http://www.ifcables.com/{urlimg}) no-repeat;" class="avatar left"></div>',
 					'</tpl>',
 					'<p>{descripcion}</p>',
 				'</article>',

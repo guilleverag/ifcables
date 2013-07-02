@@ -3,8 +3,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Inicio de Sesión del Administrador - IFCables.</title>
-<link href="http://ifcables.ve2fsoft.com/resources/css/general.css" rel="stylesheet" type="text/css" />
-<link rel="shortcut icon" type="image/ico" href="http://ifcables.ve2fsoft.com/resources/img/finisterre-logo.png">
+<link href="http://www.ifcables.com/resources/css/general.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" type="image/ico" href="http://www.ifcables.com/resources/img/finisterre-logo.png">
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
@@ -14,7 +14,7 @@
 <body style="position:relative; top:0px; min-height:100%;">
 	<header id="header">
     	<div class="skiptranslate" id="logo-container">
-            <h1 id="logo"><a href="http://ifcables.ve2fsoft.com"><img alt="IFCables" src="../resources/img/logo-ifcables.gif"></a></h1>
+            <h1 id="logo"><a href="http://www.ifcables.com"><img alt="IFCables" src="../resources/img/logo-ifcables.gif"></a></h1>
         </div>
         <nav id="util-nav">
             <ul>
@@ -45,7 +45,7 @@
     
     <footer id="footer">
     	<div id="footer-content">
-            <p style="float:left;width:50%;"><a class="more-icon" title="La mejor solución y disponibilidad en cables especiales y comerciales, ademas de barras y tuberias de cobre." href="http://ifcables.ve2fsoft.com">www.ifcables.com</a></p>
+            <p style="float:left;width:50%;"><a class="more-icon" title="La mejor solución y disponibilidad en cables especiales y comerciales, ademas de barras y tuberias de cobre." href="http://www.ifcables.com">www.ifcables.com</a></p>
             <div id="copyright">
             	<p>Copyright &copy; 2011 Inversiones Finisterre, C.A. RIF.: J-30046314-1</p>
             </div>
